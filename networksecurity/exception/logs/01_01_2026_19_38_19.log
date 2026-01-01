@@ -1,0 +1,2 @@
+[2026-01-01 19:38:19,872] 26 networksecurity.logging.logger - INFO - Enter try block
+[2026-01-01 19:38:19,872] 14 networksecurity.logging.logger - ERROR - Error occurred in python script name [C:\Users\Lenovo\Desktop\network security\networksecurity\exception\exception.py] line number [27] error message [division by zero]

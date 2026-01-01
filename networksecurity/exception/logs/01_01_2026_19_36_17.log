@@ -1,0 +1,1 @@
+[2026-01-01 19:36:17,276] 14 networksecurity.logging.logger - ERROR - Error occurred in python script name [C:\Users\Lenovo\Desktop\network security\networksecurity\exception\exception.py] line number [26] error message ['Logger' object has no attribute 'logging']
