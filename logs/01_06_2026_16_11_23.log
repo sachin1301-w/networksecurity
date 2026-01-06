@@ -1,0 +1,1 @@
+[2026-01-06 16:13:52,484] 14 networksecurity.logging.logger - ERROR - Error occurred in python script name [C:\Users\Lenovo\Desktop\network security\main.py] line number [10] error message [module 'networksecurity.constants.training_pipeline' has no attribute 'DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO']
